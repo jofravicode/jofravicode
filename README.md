@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jofraviman
+- 👋 Hi, I’m @jofravicode
 - 👀 I’m interested in learning, music and programming
 - 🌱 I’m currently learning to be a full stack programmer
 - 💞️ I’m looking to collaborate on new projects and ideas
-- 📫 How to reach me jofraviman@hotmail.com or music@jofravimusic.com
+- 📫 How to reach me jose.aguirre@technicalgroup.cl or jose.aguirre@jofravicode.dev
 
 <!---
 jofraviman/jofraviman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
