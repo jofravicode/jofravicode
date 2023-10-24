@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jofravicode
 - 👀 I’m interested in learning, music and programming
-- 🌱 I’m currently learning to be a full stack programmer
+- 🌱 I’m currently learning to be a full stack developer
 - 💞️ I’m looking to collaborate on new projects and ideas
 - 📫 How to reach me jose.aguirre@technicalgroup.cl or jose.aguirre@jofravicode.dev
 
